@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babel": "^6.5.2",
+    "react": "^0.14.7"
+  }
+}
